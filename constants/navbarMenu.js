@@ -245,6 +245,21 @@ export const AllMenu = [
         path: "/news-events",
         icon: "fas fa-newspaper",
         subContent: []
+<<<<<<< Updated upstream
+=======
+    },
+    {
+        title: "Careers",
+        path: "/careers",
+        icon: "fas fa-newspaper",
+        subContent: []
+    },
+    {
+        title: "Contact Us",
+        path: "/contact-us",
+        icon: "fas fa-newspaper",
+        subContent: []
+>>>>>>> Stashed changes
     }
 
 ]
