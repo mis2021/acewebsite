@@ -252,6 +252,12 @@ export const AllMenu = [
         path: "/careers",
         icon: "fas fa-users",
         subContent: []
+    },
+    {
+        title: "Contacts",
+        path: "/contact",
+        icon: "fas fa-users",
+        subContent: []
     }
 
 ]
