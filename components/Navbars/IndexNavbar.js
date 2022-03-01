@@ -8,7 +8,7 @@ import { AllMenu } from "../../constants/navbarMenu";
 
 export default function Navbar(props) {
   const [navbarOpen, setNavbarOpen] = React.useState(false);
-  console.log("AllMenu", AllMenu)
+  // console.log("AllMenu", AllMenu)
 
   return (
     <>
