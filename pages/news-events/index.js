@@ -13,7 +13,6 @@ import Footer from "components/FooterTemp/Footer";
 export default function NewsEvents(props) {
   const news = props?.NodeNewsAndEvent;
 
-  // console.log(news)
 
   return (
     <>

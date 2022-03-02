@@ -15,9 +15,6 @@ export default function Careers(props) {
 
   const pageTitle = 'Allied Care Experts CAREERS';
 
-  console.log(careers)
-
-  console.log(isMobile);
 
   return (
     <>

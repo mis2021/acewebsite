@@ -8,8 +8,6 @@ import Parser from 'html-react-parser';
 
 export default function DoctorsSched(props) {
     const doctors = props?.nodeDoctors;
-
-    console.log("all doctors", doctors)
     return (
         <>
             <MainLayout>

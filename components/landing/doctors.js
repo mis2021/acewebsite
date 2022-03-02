@@ -45,7 +45,6 @@ export default function DoctorSummary(props) {
 
     function getSelected(event, value){
         
-        console.log("value", value.value)
         setDoctorVar(value.value)
 
         refetch()
